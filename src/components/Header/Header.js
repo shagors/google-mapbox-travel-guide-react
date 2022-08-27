@@ -13,7 +13,7 @@ const Header = () => {
           Map Guide
         </Typography>
         <Box display="flex">
-          <Typography variant="h7" className={classes.title}>
+          <Typography variant="h6" className={classes.title}>
             Explore New Places
           </Typography>
           {/* <Autocomplete> */}
